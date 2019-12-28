@@ -1,5 +1,5 @@
 {
-  "name": "uonsoftware/rsa-signer",
+  "name": "malusev/rsa-signer",
   "description": "Laravel RSA Signer",
   "type": "library",
   "license": "Apache 2.0",
